@@ -1,1 +1,1 @@
-# basic_training
+Basic training solution submissions
